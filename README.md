@@ -88,9 +88,9 @@ Make the Powerpoint presentation as per the given template
 1. Pie Chart
 2. Bar Chart
 
-# Powerpoint Presentation: PPT
-PPT : https://www.canva.com/design/DAGPhfNpl2Q/yOixGgb-5gIiwW9W6hKzmA/edit
-
+# Powerpoint Presentation: 
+PPT : 
+https://www.canva.com/design/DAGPhfNpl2Q/yYhppNi7y0HLY-iwk6cvcQ/view?utm_content=DAGPhfNpl2Q&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
 Task-4
 
 Present to the Client:
