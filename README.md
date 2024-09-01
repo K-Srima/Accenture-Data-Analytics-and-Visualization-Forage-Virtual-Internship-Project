@@ -1,4 +1,5 @@
 # Accenture-Data-Analytics-and-Visualization-Forage-Virtual-Internship-Project
+#Task-1
 # Task OverView
 What I will be  :
 - Learn to clean, model, and analyze data to generate client insights.
@@ -25,7 +26,7 @@ What I will be  :
   - Determine your key tasks as a Data Analyst.
 About Client Brief : [Data_Analytics Client Brief.pdf](https://github.com/user-attachments/files/16828638/Data_Analytics.Client.Brief.pdf)
 
-#  Task For Accenture
+#  Task For Accenture :
 
 Client's Challenge : The client has experienced rapid growth and lacks the internal resources to manage it effectively.
 Three Key Requirements for Accenture:
@@ -35,3 +36,8 @@ Three Key Requirements for Accenture:
 
 # Accenture Project Team
 ![image](https://github.com/user-attachments/assets/a4dfefda-8913-43e0-8571-296cab21e9f7)
+
+# Task-1 Quiz
+![image](https://github.com/user-attachments/assets/4c1a35da-fc6f-46f9-97a6-5a0373a63993)
+
+
