@@ -1,5 +1,4 @@
-# Accenture-Data-Analytics-and-Visualization-Forage-Virtual-Internship-Project
-#Task-1
+# Task-1
 # Task OverView
 What I will be  :
 - Learn to clean, model, and analyze data to generate client insights.
@@ -7,7 +6,7 @@ What I will be  :
 - Clean, merge, and prepare data for analysis.
 - Provide answers to the client’s business question.
 
-# My Key Roles and Responsibilities as a Data Analyst:
+# My Key Roles and Responsibilities as a Data Analyst
 
 - Bridge the gap between the business (clients and team members) and the data.
 - Communicate data findings clearly to support strategic decisions.
@@ -15,7 +14,7 @@ What I will be  :
 - Work across various clients and projects, constantly solving new problems.
 - Deliver accurate results within tight timeframes.
 
-# Project Understanding : 
+# Project Understanding
 
 - Read the brief from Social Buzz to prepare for a knowledge check before the call.
 - Mae Mulligan, Accenture’s Managing Director and client lead, has assembled a team for the project.
@@ -26,7 +25,7 @@ What I will be  :
   - Determine your key tasks as a Data Analyst.
 About Client Brief : [Data_Analytics Client Brief.pdf](https://github.com/user-attachments/files/16828638/Data_Analytics.Client.Brief.pdf)
 
-#  Task For Accenture :
+#  Task For Accenture 
 
 Client's Challenge : The client has experienced rapid growth and lacks the internal resources to manage it effectively.
 Three Key Requirements for Accenture:
