@@ -1,4 +1,4 @@
-# Task-1
+# Task-1: Project Understanding
 # Task OverView
 What I will be  :
 - Learn to clean, model, and analyze data to generate client insights.
@@ -36,7 +36,64 @@ Three Key Requirements for Accenture:
 # Accenture Project Team
 ![image](https://github.com/user-attachments/assets/a4dfefda-8913-43e0-8571-296cab21e9f7)
 
-# Task-1 Quiz
-![image](https://github.com/user-attachments/assets/4c1a35da-fc6f-46f9-97a6-5a0373a63993)
+# Task 2: Data Cleaning & Modeling
 
+Now that you understand the project and your role, it's time to start working. Even if you're new to data analysis, we'll guide you step by step.
+
+The client has provided:
+
+- 7 datasets with various columns and values
+- A data model showing relationships between datasets and links for merging tables
+
+To avoid getting overwhelmed, follow these steps:
+
+1. Requirements gathering
+2. Data cleaning
+3. Data modeling
+
+Start by identifying which datasets are needed to determine the top 5 categories by popularity. Once you’ve selected the right datasets, complete the quiz to proceed.
+Data Model: [Data model (1).pdf](https://github.com/user-attachments/files/16828698/Data.model.1.pdf)
+
+# Data Cleaning:
+
+# To clean the data:
+
+- Remove rows with missing values.
+- Adjust the data type for certain values within specific columns.
+- Eliminate columns that are not relevant to the task.
+
+Consider the relevance of each column to the business question. If a column doesn’t seem useful, it may be unnecessary to include.
+
+# The final result will be three cleaned datasets:
+1. Content_csv.csv
+2. Reaction Types.csv
+3. Reactions.csv
+
+# Data Modelling
+Create a final data set by merging the above 3 tables
+
+End Result will be One Spreadsheet
+1. A Cleaned Dataset
+2. Top 5 Categories
+
+# Cleaned Data Set
+So, the dataset after Data Cleaning and Data Modelling : [FINAL DATA.xlsx](https://github.com/user-attachments/files/16828745/FINAL.DATA.xlsx)
+
+# Task - 3
+
+# Data Visualization and Storytelling
+Make the Powerpoint presentation as per the given template
+
+# Charts Involved:
+1. Pie Chart
+2. Bar Chart
+
+# Powerpoint Presentation: PPT
+PPT : 
+
+Task-4
+
+Present to the Client:
+
+Present your powerpoint presentation to the client and deliver the insights of your analysis
 
