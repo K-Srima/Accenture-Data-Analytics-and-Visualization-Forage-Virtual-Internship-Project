@@ -1,5 +1,8 @@
 # Certificate - [hzmoNKtzvAzXsEqx8_Accenture North America_9F6i5awuwDSf7cp7h_1724519451291_completion_certificate (1).pdf](https://github.com/user-attachments/files/16829146/hzmoNKtzvAzXsEqx8_Accenture.North.America_9F6i5awuwDSf7cp7h_1724519451291_completion_certificate.1.pdf)
 
+# ![image](https://github.com/user-attachments/assets/09284a94-a7dc-4958-95c8-9a4647ce5bad)
+
+
 # Task-1: Project Understanding
 # Task OverView
 What I will be  :
