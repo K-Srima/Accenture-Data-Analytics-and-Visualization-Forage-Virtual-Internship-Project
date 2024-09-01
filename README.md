@@ -89,7 +89,7 @@ Make the Powerpoint presentation as per the given template
 2. Bar Chart
 
 # Powerpoint Presentation: PPT
-PPT : 
+PPT : https://www.canva.com/design/DAGPhfNpl2Q/yOixGgb-5gIiwW9W6hKzmA/edit
 
 Task-4
 
