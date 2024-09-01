@@ -23,7 +23,7 @@ What I will be  :
   - Understand the client and business problem.
   - Identify project requirements.
   - Determine your key tasks as a Data Analyst.
-About Client Brief : file:///C:/Users/Srima/Downloads/Data_Analytics%20Client%20Brief.pdf
+About Client Brief : [Data_Analytics Client Brief.pdf](https://github.com/user-attachments/files/16828638/Data_Analytics.Client.Brief.pdf)
 
 #  Task For Accenture
 
